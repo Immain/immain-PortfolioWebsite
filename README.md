@@ -16,7 +16,7 @@ https://ianmainresume.com
 Vercel: https://vercel.com/
 
 ## Create Your Own React App with Node.js
-Get Started with Node.js::
+Get Started with Node.js:
 ```
 https://nodejs.org
 ```
