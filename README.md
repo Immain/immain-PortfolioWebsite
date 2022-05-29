@@ -25,6 +25,10 @@ Create React App:
 npx create-react-app your-app
 ```
 
+## Updates
+- 5/29/22 Fixed a typo in Hero.js
+- 5/28/22 Fixed an issue with the header under HeaderStyles.js
+
 ## Learning Links
 - **React.js:** https://reactjs.org/
 - **Next.js:** https://nextjs.org/
