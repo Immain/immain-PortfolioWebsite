@@ -22,6 +22,3 @@ npx create-react-app your-app
 - **Next.js:** https://nextjs.org/
 - **Next.js Dev:** https://nextjsdev.com/
 - **React Icons:** https://react-icons.github.io/react-icons
-
-# Getting Started with Create React App
-This app was created and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
