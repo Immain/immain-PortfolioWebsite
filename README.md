@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-<img src=public/images/ResumePortfolio.png>
+<img src=public/images/ResumePortfolio.PNG>
 
 # Digital Resume and Portfolio
 Hi, my name is Ian, I created this digital resume and portfolio as a way to display my skills
