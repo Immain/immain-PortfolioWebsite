@@ -39,5 +39,4 @@ export const TimeLineData = [
   { year: 2017, text: 'American Ambulance Visalia - Information Technology Specialist', },
   { year: 2019, text: 'Midnight Technologies - Information Technology Specialist', },
   { year: 2022, text: 'Started as a freelance developer', },
-  { year: 2023, text: 'Founded High Sierra Software', },
 ];
