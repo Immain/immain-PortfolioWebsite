@@ -17,10 +17,6 @@ https://ianmainresume.com
 npx create-react-app your-app
 ```
 
-## Midnight Technologies Website
-https://midnighttechnologies.com/
-
-
 ## Learning Links
 - **React.js:** https://reactjs.org/
 - **Next.js:** https://nextjs.org/
