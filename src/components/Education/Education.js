@@ -47,7 +47,7 @@ const Education = () => (
                             Golden West High School
                         </ListTitle>
                         <ListParagraph>
-                            2012-2014
+                            2008-2011
                             <br />
                             General Education
                         </ListParagraph>
