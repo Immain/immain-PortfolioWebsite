@@ -7,10 +7,13 @@ Hi, my name is Ian, I created this digital resume and portfolio as a way to disp
 and talents, as well as present myself professionally. There is a lot more I would like to add 
 to this in the future, but I think it is in a good spot as it is right now.
 
-My Digital Resume and Portfolio can be found at:
+## My Digital Resume and Portfolio can be found at:
 ```
 https://ianmainresume.com
 ```
+
+## Production Environment Hosted By:
+Vercel: https://vercel.com/
 
 ## Create Your Own React App with Node.js
 ```
