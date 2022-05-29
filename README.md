@@ -18,7 +18,7 @@ Vercel: https://vercel.com/
 ## Create Your Own React App with Node.js
 Get Started with Node.js::
 ```
-[https://node.js](https://nodejs.org/en/)
+https://nodejs.org
 ```
 Create React App:
 ```
