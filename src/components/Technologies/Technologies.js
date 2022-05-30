@@ -2,7 +2,7 @@ import React from 'react';
 import { DiReact } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
-import {SiGooglecloud, SiPaloaltosoftware, SiAnsible, SiAffinitydesigner, SiFirebase, SiRedux } from 'react-icons/si';
+import {SiGooglecloud, SiPaloaltosoftware, SiAnsible, SiAffinitydesigner, SiFirebase, SiRedux, SiWindows } from 'react-icons/si';
 
 const Technologies = () =>  (
   <Section id="tech">
@@ -33,7 +33,7 @@ const Technologies = () =>  (
           </ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js and Databases
+            Node.js, MySQL, MongoDB, and MariaDB
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -81,7 +81,19 @@ const Technologies = () =>  (
           </ListTitle>
           <ListParagraph>
             Experience with <br /> 
-            Ansible, Jenkins, Terraform, Powershell, and Docker
+            Ansible, Jenkins, Terraform, Python, Powershell, and Docker
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <SiWindows size="3rem" />
+        <ListContainer>
+          <ListTitle>
+            Operating Systems
+          </ListTitle>
+          <ListParagraph>
+            Experience with <br /> 
+            MacOS, Windows, Linux (Ubuntu, CentOS, Alpine, Alma), and UNIX
           </ListParagraph>
         </ListContainer>
       </ListItem>
