@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'South Texas Pain & Spine',
-    description: "I was tasked with building South Texas Pain and Spines new website, after a previous web development company destroyed their site. South Texas Pain and Spine is based out of Corpus Christi, Texas. This site was built using Wordpress and PHP",
+    description: "I was tasked with building South Texas Pain and Spines new website, after a previous web development company destroyed their site. South Texas Pain and Spine is based out of Corpus Christi, Texas. This site was built using Wordpress and PHP.",
     image: '/images/1.png',
     tags: ['CMS', 'Wordpress', 'PHP', 'MongoDB', 'Express'],
     source: 'https://southtexaspas.com/',
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: 'American Ambulance of Visalia',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"American Ambulance asked me several years back to create the main design of their new website. The old website for AAV was severely out of date and was consistently hacked. Using Bootstrap and PHP, I created and designed the new website layout for American Ambulance.",
     image: '/images/2.png',
     tags: ['CMS','Wordpress', 'PHP', 'BootStrap'],
     source: 'https://aavems.com/',
