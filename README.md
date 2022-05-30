@@ -12,8 +12,10 @@ to this in the future, but I think it is in a good spot as it is right now.
 https://ianmainresume.com
 ```
 
-## Production Environment Hosted By:
-Vercel: https://vercel.com/
+## Production Environment Hosted By Vercel:
+Vercel combines the best developer experience with an obsessive focus on end-user performance. Vercel enables frontend teams to do their best work.
+
+Website: https://vercel.com/
 
 ## Create Your Own React App with Node.js
 Get Started with Node.js:
