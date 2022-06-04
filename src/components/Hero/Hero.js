@@ -2,12 +2,13 @@ import React from 'react';
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
+import Typed from 'react-typed';
 
 const Hero = ( ) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
+        <Typed strings={['Welcome To', 'Bienvenido a', 'Ласкаво просимо до', 'में स्वागत', '歡迎來到', 'Тавтай морил', 'أهلا في', 'Dobrodošli u']} typeSpeed={120} backSpeed={130} loop/> <br />
         My Digital Resume and Portfolio
       </SectionTitle>
       <SectionText>
