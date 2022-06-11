@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'South Texas Pain & Spine',
-    description: "I was tasked with building South Texas Pain and Spines new website, after a previous web development company destroyed their site. South Texas Pain and Spine is based out of Corpus Christi, Texas. This site was built using Wordpress and PHP.",
+    description: "I was tasked with building South Texas Pain and Spines new website, after a previous web development company destroyed their site. South Texas Pain and Spine is based out of Corpus Christi, Texas. This site was built using Wordpress and PHP",
     image: '/images/1.png',
     tags: ['CMS', 'Wordpress', 'PHP', 'MongoDB', 'Express'],
     source: 'https://southtexaspas.com/',
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: 'American Ambulance of Visalia',
-    description:"American Ambulance asked me several years back to create the main design of their new website. The old website for AAV was severely out of date and was consistently hacked. Using Bootstrap and PHP, I created and designed the new website layout for American Ambulance.",
+    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     image: '/images/2.png',
     tags: ['CMS','Wordpress', 'PHP', 'BootStrap'],
     source: 'https://aavems.com/',
@@ -24,12 +24,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unannounced App',
-    description: "This is a work in progress, I'm working on a new app that I'm building and it's a very special proejct to me. I'm hoping to have a fully functional and working app in the next few months.",
-    image: '/images/5.jpg',
-    tags: ['React', 'Recoil', 'Firebase'],
-    source: 'https://midnighttechnologies.com/',
-    visit: 'https://github.com/Immain/Midnight-App',
+    title: 'The Pet Box',
+    description: "The Pet Box is a fictional Pet Box subscription service. Using this website, you would be able to purchase a subscription service that would deliver toys, food, treats, and other various goodies to your cat companion for a very low cost.",
+    image: '/images/PetBox.PNG',
+    tags: ['React', 'Vercel', 'TailwindCSS'],
+    source: 'https://the-pet-box-landing-page-jun2022.vercel.app/',
+    visit: 'https://github.com/Immain/ThePetBox-LandingPage-Jun2022',
     id: 3,
   },
 ];
