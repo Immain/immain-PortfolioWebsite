@@ -14,7 +14,7 @@ const Hero = ( ) => (
       <SectionText>
         My Name is Ian Main and I'm a talented Network Administrator with seven solid years of experience in systems and network installation, automation configuration, deployment, and troubleshooting. Experience includes implementing and administering public, private and hybrid cloud platforms (AWS, Azure, Google Cloud, and Digital Ocean). I Possess strong grasp of computer security, multiple operating systems (MacOS, Windows, and Linux), numerous applications, and mixed platforms. I have Excellent communication and collaboration/teamwork skills, and superb customer service/relations abilities. I am a self-starter and I am always willing to learn new skills and technologies. 
       </SectionText>
-      <Button onClick={() => window.location = 'https://media-exp1.licdn.com/dms/document/C562DAQF_YqKA9FrLbQ/profile-treasury-document-pdf-analyzed/0/1653873350954?e=1655942400&v=beta&t=CGmHxGawviYzP7dWlV3i9v_8HN1NvG11JV75REVJUTU'} >
+      <Button onClick={() => window.location = 'https://media-exp1.licdn.com/dms/document/C562DAQGAgYh6ZgGNtA/profile-treasury-document-pdf-analyzed/0/1657072428215?e=1657756800&v=beta&t=13a08PuQAQ4TPcce1MadEpeJ_iSniuTwb_i0ki75Ja4'} >
         Download Resume
       </Button>
     </LeftSection>
